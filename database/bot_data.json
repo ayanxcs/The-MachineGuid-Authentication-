@@ -1,0 +1,12 @@
+{
+  "authorized_servers": [],
+  "resellers": [],
+  "server_logins": {},
+  "free_mode": {
+    "enabled": false,
+    "exe_name": "",
+    "expire_time": null
+  },
+  "logs_channel": null,
+  "reset_cooldowns": {}
+}
